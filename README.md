@@ -1,3 +1,3 @@
 # scrims
 
-A Discord bot to manage scrims for competetive games.
+A Discord bot to manage scrims for competitive games.
